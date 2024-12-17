@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\generics\\generics\\generics\\maxintfloatstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|solutionrelative:generics\\maxintfloatstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\generics\\generics\\generics\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|solutionrelative:generics\\generic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\generics\\generics\\generics\\printarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|solutionrelative:generics\\printarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|c:\\users\\gaurav kakad\\onedrive\\desktop\\generics\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6DDAC2-516D-4BF6-8434-FB6E686771D9}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxIntFloatString.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\MaxIntFloatString.cs",
+              "RelativeDocumentMoniker": "Generics\\MaxIntFloatString.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\MaxIntFloatString.cs",
+              "RelativeToolTip": "Generics\\MaxIntFloatString.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:59:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Generic.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\Generic.cs",
+              "RelativeDocumentMoniker": "Generics\\Generic.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\Generic.cs",
+              "RelativeToolTip": "Generics\\Generic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T07:10:23.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\program.cs",
+              "RelativeDocumentMoniker": "Generics\\program.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\program.cs",
+              "RelativeToolTip": "Generics\\program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:56:54.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrintArray.cs",
+              "DocumentMoniker": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\PrintArray.cs",
+              "RelativeDocumentMoniker": "Generics\\PrintArray.cs",
+              "ToolTip": "C:\\Users\\GAURAV KAKAD\\OneDrive\\Desktop\\Generics\\Generics\\Generics\\PrintArray.cs",
+              "RelativeToolTip": "Generics\\PrintArray.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T06:47:31.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
